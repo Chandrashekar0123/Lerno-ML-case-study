@@ -39,10 +39,14 @@ D. Decision Tree
 Criterion: Entropy, Max Depth: 2.
 Achieved an accuracy of 100%.
 The Decision Tree was visualized to understand the splitting criteria.
+
+
 6. Visualizing Models
 Decision Tree Visualization: The structure of the decision tree was visualized for training, testing, and overall data. The generated tree provided insights into how features like Curricular units and GDP influenced the outcomes.
 Performance Metrics: Confusion Matrices and Classification Reports were generated for each model to highlight the strengths and areas of improvement.
 7. Model Deployment
 Models and preprocessing scalers were saved using joblib for future use.
+
+
 Summary
 All models performed exceptionally well, with Logistic Regression, SVM, and Decision Tree achieving 100% accuracy. KNN provided slightly lower accuracy but demonstrated robust results. This project showcases the power of machine learning in predicting student outcomes with the right preprocessing and feature selection.
