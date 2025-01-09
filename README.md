@@ -27,17 +27,21 @@ A. Logistic Regression
 Achieved an accuracy of 100%.
 Precision, Recall, and F1-Score: 1.00 across all classes.
 Confusion Matrix demonstrated perfect classification.
+
 B. Support Vector Machine (SVM)
 Kernel: linear
 Accuracy: 100%.
 Classification Report: Metrics were perfect across all classes.
+
 C. K-Nearest Neighbors (KNN)
 Number of Neighbors: 5.
 Accuracy: 97%.
 Slight misclassification observed in class 1, but overall performance was high.
+
 D. Decision Tree
 Criterion: Entropy, Max Depth: 2.
 Achieved an accuracy of 100%.
+
 The Decision Tree was visualized to understand the splitting criteria.
 
 
