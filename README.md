@@ -18,6 +18,8 @@ Use the testing dataset to make predictions and evaluate generalization.
 8. Evaluate Model Performance : 
 Assess the model’s accuracy, precision, recall, F1 score, etc., using appropriate metrics.
 
+Machine Learning Models :
+
 
 1. HIERARCHICAL_CLUSTERING : 
 Hierarchical clustering is an unsupervised learning algorithm that organizes data into a hierarchy of clusters, visualized through a dendrogram. It uses agglomerative (bottom-up) or divisive (top-down) methods and is commonly applied in bioinformatics and market segmentation.
