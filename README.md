@@ -44,3 +44,6 @@ Simple linear regression models the relationship between a single independent va
 
 8. k_means_iris : 
 This applies the K-Means clustering algorithm to the Iris dataset, grouping flowers into clusters based on their features. It demonstrates unsupervised learning for pattern discovery.
+
+9. Decision Tree : 
+A decision tree is a model that makes predictions by splitting data at each node based on feature values. It continues to split until it reaches a leaf node, which holds the prediction. It’s simple, interpretable, and commonly used for classification and regression tasks.
