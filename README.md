@@ -1,28 +1,21 @@
- Steps in Machine Learning:
+ Steps in Machine Learning :
 
- 
-Import Libraries : 
+
+1. Import Libraries : 
 Import the necessary library files and dependencies.
-
-Load the Dataset : 
+2. Load the Dataset : 
 Read and load the dataset into your environment for analysis.
-
-Preprocess the Data : 
+3. Preprocess the Data : 
 Clean and prepare the dataset by handling missing values, scaling, encoding, etc.
-
-Split the Dataset : 
+4. Split the Dataset : 
 Divide the dataset into training and testing sets to evaluate the model's performance.
-
-Build the Model : 
+5. Build the Model : 
 Define and configure the machine learning model.
-
-Train the Model : 
+6. Train the Model : 
 Fit the training dataset to the model to learn from the data.
-
-Test the Model : 
+7. Test the Model : 
 Use the testing dataset to make predictions and evaluate generalization.
-
-Evaluate Model Performance : 
+8. Evaluate Model Performance : 
 Assess the model’s accuracy, precision, recall, F1 score, etc., using appropriate metrics.
 
 
